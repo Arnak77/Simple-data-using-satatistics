@@ -1,1 +1,1 @@
-# Simple-data-using-satatistics
+# Simple-data-using-statistics
